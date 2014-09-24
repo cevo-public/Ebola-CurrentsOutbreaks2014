@@ -5,7 +5,7 @@ Additional files for our paper "Insights into the early epidemic spread of Ebola
 
 Models used in the paper are (or will soon be) available at:
 
-BEAST 2 models: https://github.com/BEAST2-Dev/phylodynamics
-R models (ML):  TreePar and TreeSim on CRAN
+- BEAST 2 models: https://github.com/BEAST2-Dev/phylodynamics
+- R models (ML):  TreePar and TreeSim on CRAN
 
 (Louis du Plessis, 24 September 2014)
